@@ -1,0 +1,6 @@
+version: '3'
+services:
+  app:
+    image: jpmendesnas/fullcycle:1.0
+    ports:
+      - 80:80
